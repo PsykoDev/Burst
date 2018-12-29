@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Burst",
+    "author": "PsykoDev",
+    "description": "No description given cause readme.",
+    "version": "Undefined",
+    "options": {
+        "niceName": "Burst"
+    },
+    "servers": ["https://raw.githubusercontent.com/PsykoDev/Burst/master/"],
+    "supportUrl": "https://github.com/PsykoDev/Burst/issues"
+}
