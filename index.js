@@ -7,7 +7,7 @@ module.exports = function Burst(mod){	//Adding Id´s manually if detection is fu
 let enabled = true,								// 51028 = https://teralore.com/de/item/51028/
 	debug = false,								// 98406 = https://teralore.com/de/item/98406/
 	brooch = {									// 98405 = https://teralore.com/de/item/98405/
-		id : [51028, 98406, 98405, 98404],		// 98404 = https://teralore.com/de/item/98404/
+		id : [51028, 98406, 98405, 98404, 51011],		// 98404 = https://teralore.com/de/item/98404/
 		cooldown : 0
 	},											// Cooldown calc should be correct nothing to change.
 	rootbeer = {
