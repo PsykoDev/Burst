@@ -23,8 +23,8 @@
 	"delay" : 0
 	},
  "sorcerer": {
-	"useBroochOn" : [390100],
-	"useRootBeerOn" : [390100],
+	"useBroochOn" : [340200],
+	"useRootBeerOn" : [340200],
 	"useOutOfCombat" : true,
 	"delay" : 0
  	}, 

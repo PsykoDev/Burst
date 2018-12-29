@@ -1,8 +1,8 @@
 {
     "files": {
-        "index.js": "ad3a3265e82314634344b7d8272eff049151503a3e0f9d83618563981ed93877",
+        "index.js": "52e86f4fae940f9f21384781aa4d1a890e7890be856ce7875e2aeced7525ae1f",
         "module.json": "bd4a662cb217ed6e4be6cb88e4ba14be862c9f577c6f4c5e9dde7c9e32e674ea",
-        "skills.json": "2c4a0dbd7ca9a1eb14b554cf88092d7dddc1621f0f318ff9603f2782c56097cc"
+        "skills.json": "d7f0ac85c524c58c43624ba46a54aa3b1f71c326b403c25b6431f6d15ce4bdc5"
     },
     "defs": {
         "C_START_SKILL": 7,

@@ -20,7 +20,7 @@ let enabled = true,								// 51028 = https://teralore.com/de/item/51028/
 	useOutOfCombat,
 	delay;
 
-	mod.command.add('au', (arg) => {
+	mod.command.add('burst', (arg) => {
 		if(arg){
 			arg = arg.toLowerCase();
 			if(arg === 'on'){
